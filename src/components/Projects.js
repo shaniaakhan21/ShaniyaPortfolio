@@ -161,8 +161,8 @@ export const Projects = () => {
         LogoIcon5: NodejsIcon,
         LogoIcon6: MySQLIcon,
         LogoIcon7: BootstrapIcon,
-        LINK2SITE:"https://shaniaakhan21.github.io/TeslaClone/" ,
-        LINK2CODE: "https://github.com/shaniaakhan21/TeslaClone",
+        LINK2SITE:"https://shaniaakhan21.github.io/ShaniyaPortfolio/" ,
+        LINK2CODE: "https://github.com/shaniaakhan21/ShaniyaPortfolio",
         BTNTWO:"Looking for Code?",
         BTNONE:"Looking for Site?",
   
