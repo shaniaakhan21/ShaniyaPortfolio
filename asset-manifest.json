@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ShaniyaPortfolio/static/css/main.6a922946.css",
+    "main.css": "/ShaniyaPortfolio/static/css/main.4734d1d4.css",
     "main.js": "/ShaniyaPortfolio/static/js/main.95ec15a4.js",
     "static/js/787.ced97632.chunk.js": "/ShaniyaPortfolio/static/js/787.ced97632.chunk.js",
     "static/media/bulk-01.svg": "/ShaniyaPortfolio/static/media/bulk-01.1a243a2d9f4598386b5cceea288d6222.svg",
@@ -39,12 +39,12 @@
     "static/media/css.svg": "/ShaniyaPortfolio/static/media/css.396dc2bf2750cf6e2b1c82da3a0a5da0.svg",
     "static/media/javascript.svg": "/ShaniyaPortfolio/static/media/javascript.0d91e52c206882a56a42eac8507d7b44.svg",
     "index.html": "/ShaniyaPortfolio/index.html",
-    "main.6a922946.css.map": "/ShaniyaPortfolio/static/css/main.6a922946.css.map",
+    "main.4734d1d4.css.map": "/ShaniyaPortfolio/static/css/main.4734d1d4.css.map",
     "main.95ec15a4.js.map": "/ShaniyaPortfolio/static/js/main.95ec15a4.js.map",
     "787.ced97632.chunk.js.map": "/ShaniyaPortfolio/static/js/787.ced97632.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a922946.css",
+    "static/css/main.4734d1d4.css",
     "static/js/main.95ec15a4.js"
   ]
 }
